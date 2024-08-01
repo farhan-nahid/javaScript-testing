@@ -21,6 +21,7 @@ You can find the full course at: [codewithmosh](https://codewithmosh.com)
 
 - toBe (string/number)
 - toEqual (object)
+- toBeTypeOf
 
 ### Truthiness
 
@@ -34,8 +35,8 @@ You can find the full course at: [codewithmosh](https://codewithmosh.com)
 
 - toBeGreaterThan
 - toBeGreaterThanOrEqualTo
-- toBeLessThen
-- toBeLessThenOrEqualTo
+- toBeLessThan
+- toBeLessThanOrEqualTo
 - toBeCloseTo (floating type value)
 
 ### Strings
